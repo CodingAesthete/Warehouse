@@ -1,0 +1,14 @@
+C:\Users\Shery\source\repos\WarehouseGoods\WarehouseGoods\bin\Debug\netcoreapp3.1\WarehouseGoods.exe
+C:\Users\Shery\source\repos\WarehouseGoods\WarehouseGoods\bin\Debug\netcoreapp3.1\WarehouseGoods.deps.json
+C:\Users\Shery\source\repos\WarehouseGoods\WarehouseGoods\bin\Debug\netcoreapp3.1\WarehouseGoods.runtimeconfig.json
+C:\Users\Shery\source\repos\WarehouseGoods\WarehouseGoods\bin\Debug\netcoreapp3.1\WarehouseGoods.runtimeconfig.dev.json
+C:\Users\Shery\source\repos\WarehouseGoods\WarehouseGoods\bin\Debug\netcoreapp3.1\WarehouseGoods.dll
+C:\Users\Shery\source\repos\WarehouseGoods\WarehouseGoods\bin\Debug\netcoreapp3.1\WarehouseGoods.pdb
+C:\Users\Shery\source\repos\WarehouseGoods\WarehouseGoods\obj\Debug\netcoreapp3.1\WarehouseGoods.csproj.AssemblyReference.cache
+C:\Users\Shery\source\repos\WarehouseGoods\WarehouseGoods\obj\Debug\netcoreapp3.1\WarehouseGoods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shery\source\repos\WarehouseGoods\WarehouseGoods\obj\Debug\netcoreapp3.1\WarehouseGoods.AssemblyInfoInputs.cache
+C:\Users\Shery\source\repos\WarehouseGoods\WarehouseGoods\obj\Debug\netcoreapp3.1\WarehouseGoods.AssemblyInfo.cs
+C:\Users\Shery\source\repos\WarehouseGoods\WarehouseGoods\obj\Debug\netcoreapp3.1\WarehouseGoods.csproj.CoreCompileInputs.cache
+C:\Users\Shery\source\repos\WarehouseGoods\WarehouseGoods\obj\Debug\netcoreapp3.1\WarehouseGoods.dll
+C:\Users\Shery\source\repos\WarehouseGoods\WarehouseGoods\obj\Debug\netcoreapp3.1\WarehouseGoods.pdb
+C:\Users\Shery\source\repos\WarehouseGoods\WarehouseGoods\obj\Debug\netcoreapp3.1\WarehouseGoods.genruntimeconfig.cache
